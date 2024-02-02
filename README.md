@@ -21,8 +21,8 @@ Este projeto é uma iniciativa educacional desenvolvida para a turma do CRJ com 
 ## Como Executar Localmente
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
-cd seu-projeto
+git clone https://github.com/denerbatista/netflix-cover.git
+cd netflix-cover
 ```
 
 2. Abra o arquivo `index.html` no seu navegador preferido.
